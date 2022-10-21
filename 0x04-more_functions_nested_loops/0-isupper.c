@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <ctype.h>
+#include "main.h"
 /*
  *Write a function that checks for uppercase character
  *return 0
