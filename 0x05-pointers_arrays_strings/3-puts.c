@@ -9,9 +9,9 @@
 
 void _puts(char *str)
 {
-	char *str[] = "Free";
+	char *str;
 
-	puts(*str);
+	while _puts(*str);
 	return (0);
 
 }
